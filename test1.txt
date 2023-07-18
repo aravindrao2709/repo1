@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is 627C-A4CF
+
+ Directory of C:\Users\aravi\OneDrive\Desktop\My Project
+
+07/17/2023  10:57 PM    <DIR>          .
+07/17/2023  08:50 PM    <DIR>          ..
+07/17/2023  10:57 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  25,136,648,192 bytes free
